@@ -1,5 +1,5 @@
 import { BrowserRouter } from "react-router-dom";
-
+import "./index.css"
 import {
   About,
   Contact,
